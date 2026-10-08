@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PE-Forge/PE-Forge.vcxproj" Id="b38512dd-82f7-4f7b-97f8-6d70f4f41a33" />
+</Solution>
