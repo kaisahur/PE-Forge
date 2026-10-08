@@ -1,5 +1,5 @@
 # PE Forge
-A Windows PE dumper and analyzer with an ImGui overlay UI. Attach to any running process and inspect or reconstruct its in-memory PE image headers, sections, imports, exports, and memory regions.
+A Windows PE dumper and analyzer with an ImGui overlay UI. Enumerates and dumps PE images from running processes headers, sections, imports, exports, and memory regions using direct NT syscalls.
 
 ## Features
 
